@@ -1,57 +1,54 @@
-# Business Process Automation using Google Sheets and ChatGPT
+# Автоматизация бизнес-процессов с использованием Google Sheets и ChatGPT
 
-## Project Description
-This project demonstrates how routine business tasks can be automated by integrating Google Sheets with the capabilities of ChatGPT. The project includes a series of implemented tools for conducting CustDev interviews, defining the target audience, generating hypotheses, and creating cold sales scripts.
+## Описание проекта
+Этот проект демонстрирует, как с помощью интеграции Google Sheets и возможностей ChatGPT можно автоматизировать рутинные бизнес-задачи. В рамках проекта реализована серия инструментов для проведения кастдев-интервью, определения целевой аудитории, генерации гипотез и создания скриптов холодных продаж. 
 
-The project serves as a training example that can be adapted for real business needs.
+Проект представляет собой учебный пример, который может быть адаптирован под реальные бизнес-задачи и включён в портфолио разработчика.
 
-**Link to the ready-made table with prompts (formulas are cleared):** [https://docs.google.com/spreadsheets/d/1mbhxuD_WEdrxbr5nizX9YTUJuKNH1We8p0eJ-fuiNDI/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1afcKMCiP7cgZVY9sh1ofN3xIUxgzlP-5XV9uF01Lo5Q/edit?gid=984554497#gid=984554497)
+**Ссылка на готовую таблицу с промптами (приведены только результаты работы формул):** [https://docs.google.com/spreadsheets/d/1mbhxuD_WEdrxbr5nizX9YTUJuKNH1We8p0eJ-fuiNDI/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1afcKMCiP7cgZVY9sh1ofN3xIUxgzlP-5XV9uF01Lo5Q/edit?gid=984554497#gid=984554497)
 
-## Key Project Features:
-1. **ChatGPT Integration in Google Sheets:**
-    - Installation and setup of the GPT for Sheets™ and Docs™ extension.
-    - Using API keys to optimize costs.
-2. **CustDev and Target Audience Analysis:**
-    - Generating a product description and the core target audience.
-    - Segmenting the target audience based on the product description.
-    - Creating detailed personas for CustDev interviews.
-3. **Script and Hypothesis Generation:**
-    - Developing cold sales scripts considering the structure of the stages.
-    - Formulating hypotheses in the "If ..., then ..." format.
-    - Automating the creation of questions for in-depth interviews.
+## Основные возможности проекта:
+1. **Интеграция ChatGPT в Google Sheets:**
+   - Установка и настройка расширения GPT for Sheets™ and Docs™.
+   - Использование API-ключей для оптимизации затрат.
+2. **Кастдев и анализ целевой аудитории:**
+   - Генерация описания продукта и ядра целевой аудитории.
+   - Сегментация целевой аудитории на основе описания продукта.
+   - Создание подробных аватаров для кастдев-интервью.
+3. **Генерация скриптов и гипотез:**
+   - Разработка скриптов для холодных продаж с учётом структуры этапов.
+   - Формулировка гипотез в формате "Если ..., то ...".
+   - Автоматизация создания вопросов для глубинных интервью.
 
-## Technologies Used:
-- **Google Sheets**: The main tool for working with data.
-- **ChatGPT**: A tool for generating text, hypotheses, and analytics.
-- **GPT for Sheets™ and Docs™ Extension**: For integrating ChatGPT capabilities into Google Sheets.
+## Используемые технологии:
+- **Google Sheets**: Основной инструмент для работы с данными.
+- **ChatGPT**: Инструмент для генерации текстов, гипотез и аналитики.
+- **Расширение GPT for Sheets™ and Docs™**: Для интеграции возможностей ChatGPT в Google Sheets.
 
-## Project Structure:
-1. **Preparation:**
-    - Installation and setup of the extension.
-    - Inputting basic data about the product, target audience, and tasks.
-2. **CustDev:**
-    - Automating product and target audience descriptions using formulas.
-    - Audience segmentation and creation of detailed personas.
-    - Generating interview questions.
-3. **Script Generation:**
-    - Building sales scripts stage-by-stage, considering the needs of decision-makers (DMs).
-    - Forming the final script text for sales teams.
+## Структура проекта:
+1. **Подготовка:**
+   - Установка и настройка расширения.
+   - Ввод базовых данных о продукте, целевой аудитории и задачах.
+2. **Кастдев:**
+   - Автоматизация описания продукта и целевой аудитории с помощью формул.
+   - Сегментация аудитории и создание подробных аватаров.
+   - Генерация вопросов для интервью.
+3. **Генерация скриптов:**
+   - Построение скриптов продаж поэтапно с учётом потребностей ЛПР (лиц, принимающих решения).
+   - Формирование итогового текста скрипта для команд продаж.
 
-## How to Run the Project:
-1. Install the GPT for Sheets™ and Docs™ extension through the Google Sheets add-ons menu.
-2. Obtain an OpenAI API key and add it to the extension settings.
-3. Open the table template (provided in the project) and follow the instructions.
-4. Fill in the basic data and use the built-in formulas to execute tasks.
+## Как запустить проект:
+1. Установите расширение GPT for Sheets™ and Docs™ через меню дополнений Google Sheets.
+2. Получите API-ключ OpenAI и добавьте его в настройки расширения.
+3. Откройте шаблон таблицы (предоставляется в проекте) и следуйте инструкциям.
+4. Заполните базовые данные и используйте встроенные формулы для выполнения задач.
 
-## Project Advantages:
-- **Practical Value:** Automating routine tasks saves time and reduces errors in data analysis.
-- **Skills in API and AI Integration:** The project demonstrates proficiency in modern technologies for improving work efficiency.
-- **Adaptability:** The solutions can be used for various scenarios: from marketing to analytics.
+## Преимущества проекта:
+- **Практическая ценность:** Автоматизация рутинных задач позволяет сэкономить время и сократить ошибки при анализе данных.
+- **Навыки работы с API и интеграцией ИИ:** Проект демонстрирует владение современными технологиями для повышения эффективности работы.
+- **Адаптируемость:** Решения можно использовать для различных сценариев: от маркетинга до аналитики.
 
-## Opportunities for Improvement:
-- Add support for other languages to work with international markets.
-- Integrate reports with data visualization.
-- Expand functionality to work with large data volumes and complex scenarios.
-
-## Conclusion:
-The project is an excellent example of integrating modern technologies into business processes.
+## Возможности для улучшения:
+- Добавить поддержку других языков для работы с международными рынками.
+- Интегрировать отчёты с визуализацией данных.
+- Расширить функционал для работы с большими объёмами данных и сложными сценариями.
