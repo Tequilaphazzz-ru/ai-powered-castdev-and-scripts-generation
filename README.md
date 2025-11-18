@@ -5,7 +5,7 @@
 
 Проект представляет собой учебный пример, который может быть адаптирован под реальные бизнес-задачи и включён в портфолио разработчика.
 
-**Ссылка на готовую таблицу с промптами (приведены только результаты работы формул):** [https://docs.google.com/spreadsheets/d/1mbhxuD_WEdrxbr5nizX9YTUJuKNH1We8p0eJ-fuiNDI/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1afcKMCiP7cgZVY9sh1ofN3xIUxgzlP-5XV9uF01Lo5Q/edit?gid=984554497#gid=984554497)
+**Ссылка на готовую таблицу с промптами (приведены только результаты работы формул):** https://docs.google.com/spreadsheets/d/1DUqW2MHTMrgQjBNTEi1SLZyD4LBag4nNtUgoY3WaQuM/edit?gid=589592989#gid=589592989
 
 ## Основные возможности проекта:
 1. **Интеграция ChatGPT в Google Sheets:**
